@@ -1,0 +1,122 @@
+{
+  "Books": [
+    {
+      "Title": "The Science of Everything",
+      "Author": "George o Orwell",
+      "Year": 1945,
+      "Genre": "Science",
+      "id": "B088"
+    },
+    {
+      "id": "B011",
+      "Title": "upgrade your life",
+      "Author": "john ",
+      "Year": 1947,
+      "Genre": "improving"
+    },
+    {
+      "Title": "level- Updated",
+      "Author": " doe",
+      "Year": 1950,
+      "Genre": "Seeelf-help",
+      "id": "B015"
+    },
+    {
+      "id": "B057",
+      "Title": "The Science of Everything",
+      "Author": "ckeke orwell",
+      "Year": 1948,
+      "Genre": "well-being"
+    },
+    {
+      "id": "B887",
+      "Title": "carpe diem",
+      "Author": "english writer",
+      "Year": 1940,
+      "Genre": "race"
+    },
+    {
+      "id": "eu3a",
+      "Title": "fitness freak",
+      "Author": "arnold",
+      "Year": 1987,
+      "Genre": "gym"
+    }
+  ],
+  "Authors": [
+    {
+      "Name": "George oo Orwell",
+      "Nationality": "British",
+      "Born": 1903,
+      "id": "e6a0"
+    },
+    {
+      "Name": "john doe",
+      "Nationality": "american",
+      "Born": 1910,
+      "id": "d4f3"
+    },
+    {
+      "Name": "Jane Smith",
+      "Nationality": "Canadian",
+      "Born": 1920,
+      "id": "a9c8"
+    },
+    {
+      "id": "e6a0",
+      "Name": " joo Orwell",
+      "Nationality": "British",
+      "Born": 1908
+    },
+    {
+      "id": "eqjo",
+      "Name": "jonser",
+      "Nationality": "africa",
+      "Born": 1989
+    },
+    {
+      "id": "e6q0",
+      "Name": "jon oo Orwell",
+      "Nationality": "British",
+      "Born": 1803
+    }
+  ],
+  "Members": [
+    {
+      "name": "leena",
+      "member_id": "M004",
+      "join_date": "2020-07-30",
+      "id": "e2a1"
+    },
+    {
+      "id": "dc95",
+      "name": "nirmala",
+      "member_id": "M003",
+      "join_date": "2023-03-10"
+    },
+    {
+      "id": "c45k",
+      "name": "ram singh",
+      "member_id": "M055",
+      "join_date": "2022-11-25"
+    },
+    {
+      "id": "a12b",
+      "name": "suresh",
+      "member_id": "M002",
+      "join_date": "2021-05-15"
+    },
+    {
+      "id": "b34c",
+      "name": "anita",
+      "member_id": "M001",
+      "join_date": "2019-09-05"
+    },
+    {
+      "id": "210r",
+      "name": "Shiva Gupta",
+      "member_id": "M027",
+      "join_date": "2024-05-02"
+    }
+  ]
+}
